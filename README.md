@@ -1,6 +1,8 @@
 # atomize-vscode
 Tune vscode with atom's minimalistic design
 
+![image](https://user-images.githubusercontent.com/7780770/120245436-91399700-c243-11eb-9f25-1fdeb6896f12.png)
+
 ## Getting Started
 
 ### Install Atom One Dark Theme for VSCode
