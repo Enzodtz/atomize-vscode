@@ -27,6 +27,10 @@ Get it from [here](https://marketplace.visualstudio.com/items?itemName=iocave.cu
 ext install iocave.customize-ui
 ```
 
+### Install Atom's font in your system
+
+Get it from [this](https://nodnod.net/posts/inconsolata-dz/) link and then execute that file.
+
 ### Then replace your settings.json with the repo's one
 
 ## What's next?
