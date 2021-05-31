@@ -31,12 +31,13 @@ ext install iocave.customize-ui
 
 Get it from [this](https://nodnod.net/posts/inconsolata-dz/) link and then execute that file.
 
-### Then replace your settings.json with the repo's one
+### Add settings.json into your vscode
+
+It might be a little complicated to replace it if you already have a lot of settings, consider pasting it after your settings and fixing duplicates. 
+We plan to fix this. Please take a look on [What's next session](#whats-next).
 
 ## What's next?
 
-Please notice that this is a starting project and has lot to improve. 
+Our plan is to convert this into an extension, making it more easy to install. Feel free to open an issue or help adding more settings to the project, but notice that this is a starting project and has lot to improve.
 
-Our plan is to convert this into an extension, making it more easy to install. 
-
-Feel free to open an issue or help adding more settings to the project.
+If you like this project, please consider giving a star to it to help it grow. 
