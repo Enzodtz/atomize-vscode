@@ -18,7 +18,7 @@
     ".editor-actions": "display: none !important;",
     ".sidebar > .composite.title": "visibility: hidden; position: relative !important;",
     ".sidebar > .composite.title::before": "visibility: visible; content: \"Project\"; display: flex; justify-content: center; align-items: center; position: absolute; right: 0; left: 0; bottom: 0; top: 0;",
-    ".sidebar.left": "border: solid 1px #181A1F;",
+    ".sidebar.left": "border-left: solid 1px #181A1F;",
     ".tabs": "border-bottom: solid 1px #181A1F; overflow: visible !important;",
     ".tabs-container": "overflow: visible !important;",
     ".tabs-and-actions-container > .monaco-scrollable-element": "overflow: visible !important;",
